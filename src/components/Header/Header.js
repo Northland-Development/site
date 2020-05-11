@@ -18,7 +18,7 @@ const Header = () => {
       </a>
       <div className="arrowContainer">
         <div className="downArrow">
-          <i class="fas fa-angle-double-down down"></i>
+          <i className="fas fa-angle-double-down down"></i>
         </div>
       </div>
     </div>
